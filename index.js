@@ -20,13 +20,14 @@ function ILoveTheBeatles(n) {
   function incrementVariable(){
   n = n + 1;
   }
-  do {array.pop()
+  do {array.pop("I love the Beatles!")
   }
    while (array.length < 15 && incrementVariable());
   
-   return ("I love the Beatles!");
+   return array;
 }
 
+/*
 function doWhileLoop(array) {
 var i = 0;
   function incrementVariable() {
@@ -37,3 +38,4 @@ var i = 0;
   while (array.length > 0 && incrementVariable());
   return array;
 }
+*/
