@@ -16,6 +16,7 @@ function johnLennonFacts(){
         "He hated the sound of his own voice"
         ]
         while (john > 0){
-          return(john, "!!!");
+          return(john);
+          
         }
 }
