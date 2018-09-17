@@ -1,5 +1,4 @@
-
-
+//the beatles play
 function theBeatlesPlay(musicians, instruments) {
   
   var array = [];
