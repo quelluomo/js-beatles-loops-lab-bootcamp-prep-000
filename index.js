@@ -16,7 +16,7 @@ function johnLennonFacts(array){
         "He hated the sound of his own voice"
         ]
         while (facts > 0){
-          const newFact = [facts, '!!!'];
+          const newFact = [...facts, '!!!'];
           return newFact;
         }
 }
