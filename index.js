@@ -17,8 +17,9 @@ function johnLennonFacts(facts) {
 }
 function ILoveTheBeatles(n) {
   var array = [];
+  var i = 0;
   function incrementVariable(){
-  n = n + 1;
+  i = i + 1;
   }
   do {array.pop("I love the Beatles!")
   }
