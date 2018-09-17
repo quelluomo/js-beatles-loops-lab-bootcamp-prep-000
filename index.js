@@ -17,6 +17,6 @@ function johnLennonFacts(){
         ]
         while (john > 0){
           console.log(john);
-          return '!!!'
+          return john, '!!!';
         }
 }
