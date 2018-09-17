@@ -5,7 +5,7 @@ function theBeatlesPlay(musicians, instruments) {
   }
     return array;
 }
-
+// I had to look this one up 'cause I dind't really got it
 function johnLennonFacts(facts) {
   var array = [];
   var i = 0;
