@@ -18,5 +18,4 @@ function johnLennonFacts(){
         while (john > 0){
           return(john, "!!!");
         }
-        return johnLennonFacts;
 }
