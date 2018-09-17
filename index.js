@@ -27,7 +27,7 @@ function ILoveTheBeatles(n) {
    return ("I love the Beatles!");
 }
 
-/*function doWhileLoop(array) {
+function doWhileLoop(array) {
 var i = 0;
   function incrementVariable() {
   i = i + 1;
@@ -37,4 +37,3 @@ var i = 0;
   while (array.length > 0 && incrementVariable());
   return array;
 }
-*/
