@@ -15,5 +15,7 @@ function johnLennonFacts(){
         "He was a choir boy and boy scout",
         "He hated the sound of his own voice"
         ]
-        while (john = 0
+        while (john = 0){
+          console.log()
+        }
 }
