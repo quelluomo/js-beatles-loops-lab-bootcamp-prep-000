@@ -24,7 +24,7 @@ function ILoveTheBeatles(n) {
   }
    while (array.length < 15 && incrementVariable());
   
-   return "I love the Beatles!"
+   return ("I love the Beatles!");
 }
 
 /*function doWhileLoop(array) {
