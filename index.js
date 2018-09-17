@@ -15,6 +15,7 @@ function johnLennonFacts(facts) {
     }
   return array;
 }
+
 function ILoveTheBeatles(n) {
   var array = [];
   do {
@@ -23,18 +24,5 @@ function ILoveTheBeatles(n) {
   }
    while (n < 15);
    
-   return array;
+return array;
 }
-
-/*
-function doWhileLoop(array) {
-var i = 0;
-  function incrementVariable() {
-  i = i + 1;
-}
-  
-  do {array.pop();}
-  while (array.length > 0 && incrementVariable());
-  return array;
-}
-*/
