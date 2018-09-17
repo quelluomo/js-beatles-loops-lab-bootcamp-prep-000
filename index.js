@@ -16,7 +16,7 @@ function johnLennonFacts(){
         "He hated the sound of his own voice"
         ]
         while (john > 0){
-          console.log(john,"!!!");
+          john.push(john, "!!!");
         }
-        return johnLennonFacts
+        return johnLennonFacts;
 }
