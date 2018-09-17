@@ -1,24 +1,11 @@
-//the beatles play
 function theBeatlesPlay(musicians, instruments) {
-  
   var array = [];
-  
-    for (let i = 0; i < musicians.length; i++){
-      array.push(`${musicians[i]} plays ${instruments[i]}`);
-    }
-    
+  for (let i = 0; i < musicians.length; i++){
+  array.push(`${musicians[i]} plays ${instruments[i]}`);
+  }
     return array;
 }
-/*
-function johnLennonFacts(array){
-  var facts = [];
-        while (array.length > 0){
-          facts.push(array[i] + "!!!");
-          i++;
-        return facts;
-        }
-}
-*/
+
 function johnLennonFacts(facts) {
   var array = [];
   var i = 0;
